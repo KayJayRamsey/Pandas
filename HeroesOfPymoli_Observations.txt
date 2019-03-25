@@ -1,0 +1,4 @@
+Three Observations:
+1. There were more male players than females in this dataset according to my calculations, representing 84%.
+2. The age range of 20-24 purchases the most optional items, representing 63% of the players. 
+3. Oathbreaker, Last Hope of the Breaking Storm was the most popular purchased item with the total of 12 purchases. 
